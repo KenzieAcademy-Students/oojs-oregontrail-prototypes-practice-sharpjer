@@ -3,7 +3,7 @@
     {
       "name": "Oregon Trail Prototypes Activity",
       "setup": "",
-      "run": "node tests.mjs",
+      "run": "node tests.js",
       "input": "",
       "output": "",
       "comparison": "included",
